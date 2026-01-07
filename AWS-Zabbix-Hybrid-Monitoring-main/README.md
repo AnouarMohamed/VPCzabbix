@@ -121,7 +121,7 @@ New-NetFirewallRule -DisplayName "Allow Zabbix" -Direction Inbound -LocalPort 10
 ---
 
 ## 👤 Auteur
-**Zakaria BOUZOUBA**
+**Anouar Mohamed**
 
 Étudiant en Génie Informatique (2ème Année)
 
